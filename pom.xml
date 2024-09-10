@@ -42,5 +42,15 @@
 			<version>2.7.5</version>
 		</dependency>
 	</dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <!-- Updated version to avoid compatibility issues -->
+                <version>3.3.2</version>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
