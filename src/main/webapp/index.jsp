@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Sometime Good sometime Bad!</h1>
-<h2>Hello Sumay where are you now!</h2>
-<h3>Hello Rahul what are you doing now</h3>
+<h1>WORK NOW TO achieve in small!</h1>
+<h2>where are u !</h2>
+<h3>is sumay...... </h3>
 </body>
 </html>
