@@ -13,6 +13,9 @@
 		<jackson.library>2.7.5</jackson.library>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
 	</properties>
 
 	<dependencies>
